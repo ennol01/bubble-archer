@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/ostersund/
+  http://2017.archertag.se/Partnerssynced/ostersund/
 published: true
 post_date: 2017-03-08 19:17:51
 ---
