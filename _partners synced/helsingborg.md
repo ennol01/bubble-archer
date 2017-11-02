@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/helsingborg/
+  http://2017.archertag.se/Partnerssynced/helsingborg/
 published: true
 post_date: 2017-03-08 19:11:04
 ---
