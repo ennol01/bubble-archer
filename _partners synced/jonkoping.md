@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/jonkoping/
+  http://2017.archertag.se/Partnerssynced/jonkoping/
 published: true
 post_date: 2017-03-08 19:12:24
 ---
