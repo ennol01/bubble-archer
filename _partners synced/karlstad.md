@@ -30,7 +30,7 @@ Att grupper beställer tjänster för att ha kul tas inte miste på, här får k
 Svensexor, företag och möhippor har lite att välja på, förutom storsäljaren Bubbleball finns roliga flerkamper att lägga till i repertoaren.
 
 Varmt välkomna hälsar,
-Wermlandsevent.com
+Wermlandsevent.com !
 
 </div>
 </div>
