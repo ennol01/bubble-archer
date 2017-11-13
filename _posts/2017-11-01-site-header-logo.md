@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-01 13:09:20
 ---
-<img class="alignnone size-medium wp-image-829" src="http://2017.archertag.se/wp-content/uploads/2017/11/archerbg-300x76.jpg" alt="" width="300" height="76" />
+<img class="alignnone size-full wp-image-829" src="http://2017.archertag.se/wp-content/uploads/2017/11/archerbg.jpg" alt="" width="1056" height="268" />
