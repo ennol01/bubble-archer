@@ -11,4 +11,5 @@ published: false
 
 Eeltown Femkampsspecialisten i Enköping
 Eeltown, en stark uppstickare i sveriges närmaste stad. Fokus på femkamper hemma på den gården i natursköna Enköping.
-Satsar nu på Archertag som dragplåster, första med archertag i Enköping kryddat med sumodräkter, pilbågar och allsjöns läckerheter
+Satsar nu på Archertag som dragplåster, första med archertag i Enköping kryddat med sumodräkter, pilbågar och allsjöns läckerheter på femkampens smörgåsbord.
+Välkomna hem till dem för en fantastisk vistelse.
