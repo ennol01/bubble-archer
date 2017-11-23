@@ -1,11 +1,11 @@
 ---
 ID: 191
-post_title: 'Bubbleball  i Västerås &#038; Enköping'
+post_title: 'Bubbleball  i Västerås &amp; Enköping'
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/vasteras-enkoping/
+  http://2017.bubbleball.se/Partnerssynced/vasteras-enkoping/
 published: true
 post_date: 2017-03-08 19:11:32
 ---
