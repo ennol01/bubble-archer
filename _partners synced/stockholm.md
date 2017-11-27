@@ -5,9 +5,9 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/stockholm/
+  http://2017.bubbleball.se/Partnerssynced/stockholm/
 published: true
-post_date: 2017-03-08 19:05:46
+post_date: 2016-03-08 19:05:46
 ---
 [vc_row][vc_column][vc_column_text]
 <div id="block_container_88053719" class="block_container h24_block_heading">
