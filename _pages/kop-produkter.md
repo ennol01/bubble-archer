@@ -8,4 +8,4 @@ permalink: http://2017.bubbleball.se/kop-produkter/
 published: true
 post_date: 2017-03-01 16:29:22
 ---
-[vc_row][vc_column css=".vc_custom_1510315822727{margin-right: 0px !important;margin-left: 0px !important;}"][featured_products per_page="12" columns="4" orderby="" order=""][vc_column_text][/vc_column_text][/vc_column][/vc_row]
+[vc_row][vc_column][vc_column_text]Vi är alltid billigast vid förbeställt båtfrakt. Alla priser ex moms. mer info följer.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1510315822727{margin-right: 0px !important;margin-left: 0px !important;}"][featured_products per_page="12" columns="4" orderby="" order=""][vc_column_text][/vc_column_text][/vc_column][/vc_row]
