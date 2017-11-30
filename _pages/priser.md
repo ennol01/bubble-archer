@@ -21,7 +21,7 @@ post_date: 2017-03-08 19:07:56
 Priset för en turnering är 390:- per person (Lokala variationer förekommer, priser angivna är branschstandard).
 
 Framkörning kan tillkomma. Fråga vid bokning.[/vc_column_text][heading2 title="Pris Företag"][vc_column_text]Priset för en turnering är 390:- per person.
-Minsta debitering, 5.900:-
+Minsta debitering, 3.900:-
 Moms tillkommer
 
 I detta ingår
