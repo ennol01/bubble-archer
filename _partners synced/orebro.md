@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/orebro/
+  http://2017.bubbleball.se/Partnerssynced/orebro/
 published: true
 post_date: 2017-03-08 19:12:41
 ---
@@ -32,5 +32,7 @@ Värt att poängtera är höghöjd och äventyrsbanan som tusentals testat genom
 
 </div>
 </div>
+.
+
 </div>
 [/vc_column_text][/vc_column][/vc_row]
