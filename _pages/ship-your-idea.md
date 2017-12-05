@@ -1,6 +1,6 @@
 ---
 ID: 22
-post_title: Karlskrona / Blekinge
+post_title: Ship your idea
 author: ennol
 post_excerpt: >
   Pellentesque habitant morbi tristique
