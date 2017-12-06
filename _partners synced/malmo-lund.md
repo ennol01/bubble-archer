@@ -1,13 +1,11 @@
 ---
 ID: 185
-post_title: >
-  Bubbleball och Bumperball i Malmö och
-  Lund
+post_title: Malmö och Lund
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/malmo-lund/
+  http://2017.bubbleball.se/Partnerssynced/malmo-lund/
 published: true
 post_date: 2017-03-08 19:10:12
 ---
