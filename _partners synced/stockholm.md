@@ -1,6 +1,6 @@
 ---
 ID: 763
-post_title: Stockholm!
+post_title: Bubbleball i Stockholm
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
