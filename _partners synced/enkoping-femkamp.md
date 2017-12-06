@@ -1,11 +1,11 @@
 ---
-ID: 1020
+ID: 847
 post_title: Enköping femkamp
-author: andreas
+author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/enkoping-femkamp/
+  http://2017.archertag.se/Partnerssynced/enkoping-femkamp/
 published: true
 post_date: 2017-11-24 11:48:35
 ---
