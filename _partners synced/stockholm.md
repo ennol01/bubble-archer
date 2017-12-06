@@ -1,6 +1,6 @@
 ---
 ID: 763
-post_title: Bubbleball och Bumperball i Stockholm!
+post_title: Stockholm!
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
