@@ -1,12 +1,12 @@
 ---
-ID: 866
+ID: 1147
 post_title: >
   Boka Bubbleball i Kramfors, Sollefteå
   och Härnösand med omnejd
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=866'
+permalink: 'http://2017.bubbleball.se/?post_type=partnerssynced&p=1147'
 published: false
 ---
 <p>[vc_row][vc_column][heading2 title="Boka Bubbleball i Kramfors, Sollefteå och Härnösand med omnejd"][vc_column_text]<strong>Vår partner i detta område heter Kramfors Uthyrning och startar igång med Bubbleball nu - boka snarast då deras tider redan börjar fyllas!</strong></p>
