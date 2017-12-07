@@ -1,12 +1,12 @@
 ---
-ID: 1152
+ID: 872
 post_title: >
   Emmaboda, Kalmar, Oskarshamn, Vimmerby,
   Vetlanda mm
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.bubbleball.se/?post_type=partnerssynced&p=1152'
+permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=872'
 published: false
 ---
 <p>[vc_row][vc_column][vc_column_text]Nöjeshuset i Emmaboda är vår partner i Kalmar med omnejd. Aktiviteterna är mobila så vi kommer till dig eller ditt företag.</p>
