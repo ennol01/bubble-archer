@@ -1,5 +1,5 @@
 ---
-ID: 1147
+ID: 869
 post_title: >
   Boka Bubbleball i Kramfors, Sollefteå
   och Härnösand med omnejd
@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/boka-bubbleball-i-kramfors-solleftea-och-harnosand-med-omnejd/
+  http://2017.archertag.se/Partnerssynced/boka-bubbleball-i-kramfors-solleftea-och-harnosand-med-omnejd-2/
 published: true
 post_date: 2017-12-07 11:51:53
 ---
