@@ -24,6 +24,7 @@ post_date: 2017-03-08 19:12:41
 <strong>Kloten Lägret AB</strong>
 
 Med 20 års erfarenheter har Kloten lärt sig vad som fungerar, och har många grupper årligen som bokar för att ha roligt och svetsa samman grupper.
+
 Likväl som vi kommer till er med aktiviteter är ni välkomna till oss.
 
 Om ni inte visste har Kloten väldigt uppskattade aktiviteter och bra boende med alla möjligheter för en minnesvärd vistelse...
