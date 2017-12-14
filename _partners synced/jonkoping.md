@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/jonkoping/
+  http://2017.bubbleball.se/Partnerssynced/jonkoping/
 published: true
 post_date: 2017-03-08 19:12:24
 ---
@@ -20,10 +20,10 @@ post_date: 2017-03-08 19:12:24
 <div id="block_container_89931562" class="block_container standard_text_block text_block">
 <div id="block_89931562">
 <div id="block_89931562_text_content" class="text_content"><strong>Välkomna,</strong>
-Vi kan glatt säga att det var vi som startade spridningen av sporten som nu lavinartat sköjer över Sverige.Vi spelar och har spelat på 100-tals olika platser, med 1000-tals kunder.
-- Alla säger samma sak, det här är otroligt roligt!Våra kunder är allt från stora företag till små företag, svensexor, möhippor, skolor och idrottsföreningar.
 
-</div>
+Vi kan glatt säga att det var vi som startade spridningen av sporten som nu lavinartat sköjer över Sverige.Vi spelar och har spelat på 100-tals olika platser, med 10.000-tals kunder.
+
+- Alla säger samma sak, det här är otroligt roligt!Våra kunder är allt från stora företag till små företag, svensexor, möhippor, skolor och idrottsföreningar.</div>
 </div>
 </div>
 [/vc_column_text][/vc_column][/vc_row]
