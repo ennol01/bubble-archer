@@ -23,7 +23,7 @@ post_date: 2017-03-08 19:14:50
 <div id="block_90655884">
 <div class="small_heading_block">
 <div></div>
-<div id="block_90655884_text_content" class="">Fantastiskt roligt!</div>
+<div id="block_90655884_text_content" class=""><strong>Fantastiskt roligt!</strong></div>
 </div>
 </div>
 </div>
