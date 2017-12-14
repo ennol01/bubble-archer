@@ -15,7 +15,7 @@ post_date: 2017-03-08 19:11:04
 <div id="block_container_90642435" class="block_container presentation_image_block">
 <div id="block_90642435">
 <div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left "></div>
+<div class="h24_image_block_align h24_image_block_align_left "> <img class="alignnone size-full wp-image-1183" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/web-Bubbleball-sumobrottning-archerytag-Malmö-och-Lund.jpg" alt="" width="1200" height="300" /></div>
 </div>
 </div>
 </div>
