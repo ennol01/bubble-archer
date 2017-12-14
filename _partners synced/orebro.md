@@ -13,7 +13,8 @@ post_date: 2017-03-08 19:12:41
 <div id="block_container_89363261" class="block_container presentation_image_block">
 <div id="block_89363261">
 <div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left "><img id="block_img_89363261" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/53105910-VMQER.jpg" alt="" /></div>
+<div class="h24_image_block_align h24_image_block_align_left "><img class="alignnone size-full wp-image-1197" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/archerytag-bubbleball-örebro.jpg" alt="" width="1200" height="300" />
+.</div>
 </div>
 </div>
 </div>
@@ -22,6 +23,8 @@ post_date: 2017-03-08 19:12:41
 <div id="block_89363257_text_content" class="text_content">
 
 <strong>Kloten Lägret AB</strong>
+
+Bubbelball, Archertag, Höghöjdsbana, Sumobrottning och mycket mer.
 
 Med 20 års erfarenheter har Kloten lärt sig vad som fungerar, och har många grupper årligen som bokar för att ha roligt och svetsa samman grupper.
 
@@ -33,7 +36,7 @@ Värt att poängtera är höghöjd och äventyrsbanan som tusentals testat genom
 
 </div>
 </div>
-.
+Professionellt in i minsta detalj!
 
 </div>
 [/vc_column_text][/vc_column][/vc_row]
