@@ -27,7 +27,7 @@ post_date: 2017-03-08 19:10:34
 <div id="block_89178468_text_content" class="text_content">
 
 .
-Våren 2018 öppnar vi upp med JÄTTE mycket större utbud, håll koll!
+<strong>Våren 2018 öppnar vi upp med JÄTTE mycket större utbud, håll koll!</strong>
 
 Nogranhet, spetskompetens och lyhördhet är ledord i Wermlandsevents verksmahet. Wermlandsevent är den partner som sköter vår verksamhet i Värmland.
 
