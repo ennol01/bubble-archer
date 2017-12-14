@@ -36,6 +36,10 @@ Man kan helt enkelt säga till er att vi finns alltid på plats när ni vill det
 
 Svensexor, möhippor, företagsevent m.fl, känn er varmt välkomna att kontakta oss för en underbar aktivitet.
 
+När du pratar med våra lokala partners fram emot våren 2018 kommer du få höra och se flera nyheter.
+Lokala nyheter och nationella nyheter.
+Varmt välkomna!
+
 <em>*Dessa två orter har en mindre framkörningsavgift av 750:-</em>
 
 </div>
