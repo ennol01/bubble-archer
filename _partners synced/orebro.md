@@ -13,8 +13,7 @@ post_date: 2017-03-08 19:12:41
 <div id="block_container_89363261" class="block_container presentation_image_block">
 <div id="block_89363261">
 <div class="h24_normal_text">
-<div class="h24_image_block_align h24_image_block_align_left "><img class="alignnone size-full wp-image-1197" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/archerytag-bubbleball-örebro.jpg" alt="" width="1200" height="300" />
-.</div>
+<div class="h24_image_block_align h24_image_block_align_left "><img class="alignnone size-full wp-image-1197" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/archerytag-bubbleball-örebro.jpg" alt="" width="1200" height="300" /></div>
 </div>
 </div>
 </div>
