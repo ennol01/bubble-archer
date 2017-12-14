@@ -1,5 +1,5 @@
 ---
-ID: 1152
+ID: 912
 post_title: >
   Emmaboda, Kalmar, Oskarshamn, Vimmerby,
   Vetlanda mm
@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/emmaboda-kalmar-oskarshamn-vimmerby-vetlanda-mm/
+  http://2017.archertag.se/Partnerssynced/emmaboda-kalmar-oskarshamn-vimmerby-vetlanda-mm-5/
 published: true
 post_date: 2017-12-07 12:03:04
 ---
