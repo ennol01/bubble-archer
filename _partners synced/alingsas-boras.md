@@ -22,7 +22,7 @@ post_date: 2017-03-08 19:14:50
 <div id="block_container_90655884" class="block_container h24_block_heading">
 <div id="block_90655884">
 <div class="small_heading_block">
-<div></div>
+<div>.</div>
 <div id="block_90655884_text_content" class=""><strong>Fantastiskt roligt!</strong></div>
 </div>
 </div>
@@ -37,8 +37,6 @@ Man kan helt enkelt säga till er att vi finns alltid på plats när ni vill det
 Svensexor, möhippor, företagsevent m.fl, känn er varmt välkomna att kontakta oss för en underbar aktivitet.
 
 <em>*Dessa två orter har en mindre framkörningsavgift av 750:-</em>
-
-&nbsp;
 
 </div>
 </div>
