@@ -1,14 +1,13 @@
 ---
 ID: 209
 post_title: >
-  Bubbleball och Bumperball på
-  Äventyrscampen i Sövde utanför Sjöbo
-  i västra Skåne
+  Bubbleball på Äventyrscampen i Sövde
+  utanför Sjöbo i västra Skåne
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/sjobo/
+  http://bubbleball.se/Partnerssynced/sjobo/
 published: true
 post_date: 2017-03-08 19:15:25
 ---
