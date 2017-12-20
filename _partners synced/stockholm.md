@@ -12,7 +12,9 @@ post_date: 2016-03-08 19:05:46
 [vc_row][vc_column][vc_column_text]
 <div id="text_block_image_101295607" class="float-left text_block_image_div h24_normal_text">
 
-<img class="alignnone size-full wp-image-1179" src="http://bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" />Hej Stockholm!
+<img class="alignnone size-full wp-image-1179" src="http://bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" />
+
+Hej Stockholm!
 
 </div>
 <div id="block_101295607_text_content" class="text_content">
