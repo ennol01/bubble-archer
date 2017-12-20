@@ -9,18 +9,13 @@ permalink: >
 published: true
 post_date: 2016-03-08 19:05:46
 ---
-<div id="block_container_88053719" class="block_container h24_block_heading">
-<div id="block_88053719">
-<div class="big_heading_block">
-<div class=""><img class="alignnone size-full wp-image-1179" src="http://bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" /></div>
-</div>
-</div>
-</div>
-<div id="block_container_89195419" class="block_container standard_text_block text_block">
-<div id="block_89195419">
-<div id="block_89195419_text_content" class="text_content">
+[vc_row][vc_column][vc_column_text]
+<div id="text_block_image_101295607" class="float-left text_block_image_div h24_normal_text">
 
-Hej Stockholm
+<img class="alignnone size-full wp-image-1179" src="http://bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" />Hej Stockholm!
+
+</div>
+<div id="block_101295607_text_content" class="text_content">
 
 Vi kan glatt säga att det var vi som startade denna sport som nu lavinartat sköljer över Sverige. Vi spelar, och har spelat, på 100-tals olika platser med 1000-tals nöjda kunder.
 - Alla säger detsamma: Det här är otroligt roligt!
@@ -32,6 +27,4 @@ Vanligtvis spelar vi på Gärdet i centrala Stockholm, men kommer självklart ut
 Om ni vill ha fler aktiviteter på ert event, besök då vår hemsida <a href="http://www.aktiviteterstockholm.se/" target="_blank" rel="noopener">aktiviteterstockholm.se</a>
 
 </div>
-</div>
-</div>
-&nbsp;
+[/vc_column_text][/vc_column][/vc_row]
