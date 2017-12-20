@@ -5,14 +5,14 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/stockholm/
+  http://bubbleball.se/Partnerssynced/stockholm/
 published: true
 post_date: 2016-03-08 19:05:46
 ---
 <div id="block_container_88053719" class="block_container h24_block_heading">
 <div id="block_88053719">
 <div class="big_heading_block">
-<div class=""><img class="alignnone size-full wp-image-1179" src="http://2017.bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" /></div>
+<div class=""><img class="alignnone size-full wp-image-1179" src="http://bubbleball.se/wp-content/uploads/2016/03/Web-bubbleball-och-archertag-stockholm.jpg" alt="" width="1200" height="300" /></div>
 </div>
 </div>
 </div>
