@@ -5,14 +5,15 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/malmo-lund/
+  http://bubbleball.se/Partnerssynced/malmo-lund/
 published: true
 post_date: 2017-03-08 19:10:12
 ---
 [vc_row][vc_column][vc_column_text]
 <div id="text_block_image_101295607" class="float-left text_block_image_div h24_normal_text">
 
-<img class="alignnone size-full wp-image-1177" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/Bubbleball-Malmö-och-Lund.jpg" alt="" width="1200" height="300" />
+<img class="alignnone wp-image-1177 size-full" src="http://bubbleball.se/wp-content/uploads/2017/03/Bubbleball-Malmö-och-Lund.jpg" alt="" width="1200" height="300" />
+
 Hej Malmö!
 
 </div>
