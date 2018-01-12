@@ -1,11 +1,11 @@
 ---
-ID: 1208
+ID: 936
 post_title: 'Nyköping &amp; Oxelösund'
-author: andreas
+author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://bubbleball.se/Partnerssynced/nykoping-oxelosund/
+  http://2017.archertag.se/Partnerssynced/nykoping-oxelosund-2/
 published: true
 post_date: 2018-01-12 11:57:44
 ---
