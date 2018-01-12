@@ -1,10 +1,10 @@
 ---
-ID: 929
+ID: 1208
 post_title: 'Nyköping &amp; Oxelösund'
-author: ennol
+author: andreas
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=929'
+permalink: 'http://bubbleball.se/?post_type=partnerssynced&p=1208'
 published: false
 ---
 <strong><img class="alignnone size-full wp-image-1209" src="http://bubbleball.se/wp-content/uploads/2018/01/kajak-och-fritid-bubbleball.jpg" alt="" width="1280" height="500" />Kajak och Fritid i Oxelösund</strong>
