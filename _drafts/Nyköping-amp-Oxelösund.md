@@ -1,14 +1,12 @@
 ---
-ID: 927
+ID: 1208
 post_title: 'Nyköping &amp; Oxelösund'
-author: ennol
+author: andreas
 post_excerpt: ""
 layout: partnerssynced
-permalink: 'http://2017.archertag.se/?post_type=partnerssynced&p=927'
+permalink: 'http://bubbleball.se/?post_type=partnerssynced&p=1208'
 published: false
 ---
-&nbsp;
-
 <strong>Kajak och Fritid i Oxelösund</strong>
 
 Välkomna till oss 1 timme söder om Stockholm vid Sörmlands största havsbad där det förutom en lång sandstrand finns en stor gräsyta perfekt för Bubbleballs.
