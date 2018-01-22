@@ -1,11 +1,11 @@
 ---
-ID: 838
+ID: 1122
 post_title: Information om Webshoppen
 author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://2017.archertag.se/information-om-webshoppen/
+  http://bubbleball.se/information-om-webshoppen/
 published: true
 post_date: 2017-12-05 11:51:06
 ---
