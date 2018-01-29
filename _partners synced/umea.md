@@ -6,8 +6,7 @@ post_title: >
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: >
-  http://2017.archertag.se/Partnerssynced/umea/
+permalink: http://archertag.se/Partnerssynced/umea/
 published: true
 post_date: 2017-03-08 19:17:19
 ---
