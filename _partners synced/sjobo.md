@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://bubbleball.se/Partnerssynced/sjobo/
+  http://archertag.se/Partnerssynced/sjobo/
 published: true
 post_date: 2017-03-08 19:15:25
 ---
