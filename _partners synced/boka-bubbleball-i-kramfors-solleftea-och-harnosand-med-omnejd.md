@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.archertag.se/Partnerssynced/boka-bubbleball-i-kramfors-solleftea-och-harnosand-med-omnejd/
+  http://archertag.se/Partnerssynced/boka-bubbleball-i-kramfors-solleftea-och-harnosand-med-omnejd/
 published: true
 post_date: 2017-12-07 11:51:53
 ---
