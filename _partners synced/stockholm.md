@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://bubbleball.se/Partnerssynced/stockholm/
+  http://archertag.se/Partnerssynced/stockholm/
 published: true
 post_date: 2016-03-08 19:05:46
 ---
