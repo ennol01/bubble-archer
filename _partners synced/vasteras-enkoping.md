@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://2017.bubbleball.se/Partnerssynced/vasteras-enkoping/
+  http://archertag.se/Partnerssynced/vasteras-enkoping/
 published: true
 post_date: 2017-03-08 19:11:32
 ---
