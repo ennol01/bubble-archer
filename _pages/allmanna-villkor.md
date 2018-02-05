@@ -1,6 +1,6 @@
 ---
 ID: 1133
-post_title: Allmänna villkor
+post_title: Allmänna villkor!
 author: ennol
 post_excerpt: ""
 layout: page
