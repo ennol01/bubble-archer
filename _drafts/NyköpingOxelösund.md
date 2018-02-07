@@ -1,6 +1,6 @@
 ---
 ID: 1272
-post_title: Nyköping
+post_title: Nyköping/Oxelösund
 author: andreas
 post_excerpt: ""
 layout: partnerssynced
