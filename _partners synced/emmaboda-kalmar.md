@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://bubbleball.se/Partnerssynced/emmaboda-kalmar-oskarshamn-vimmerby-vetlanda-mm/
+  http://bubbleball.se/Partnerssynced/emmaboda-kalmar/
 published: true
 post_date: 2017-12-07 12:03:04
 ---
