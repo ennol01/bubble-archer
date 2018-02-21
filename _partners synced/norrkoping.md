@@ -20,7 +20,7 @@ GA Center mjukstartar med Bubbleball och Archertag (Pilbågskrig) nu i vinter, t
 
 Så välkomna!
 Hälsningar,
-Patricio Boiardt &amp; Micke  Strandh
+Micke  Strandh
 
 </div>
 [/vc_column_text][/vc_column][/vc_row]
