@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://archertag.se/Partnerssynced/norrkoping/
+  http://bubbleball.se/Partnerssynced/norrkoping/
 published: true
 post_date: 2017-03-08 19:09:34
 ---
