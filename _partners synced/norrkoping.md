@@ -10,10 +10,9 @@ published: true
 post_date: 2017-03-08 19:09:34
 ---
 [vc_row][vc_column][vc_column_text]
-<div id="text_block_image_88052326" class="float-left text_block_image_div h24_normal_text"><img id="block_img_88052326" class="resizeable text_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/64649695-SiCup.jpg" alt="" /></div>
 <div id="block_88052326_text_content" class="text_content">
 
-Äntligen!
+<img class="alignnone size-full wp-image-1311" src="http://bubbleball.se/wp-content/uploads/2017/03/GAcenter-header.jpg" alt="" width="880" height="299" />Äntligen!
 
 Alla kring Norrköping jublar, Micke och Bosse på GAcenter har öppnat upp med Bubbleball och Archrtag i Norrköping.
 
