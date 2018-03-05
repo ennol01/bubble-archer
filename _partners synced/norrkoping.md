@@ -14,13 +14,18 @@ post_date: 2017-03-08 19:09:34
 <div id="block_88052326_text_content" class="text_content">
 
 Äntligen!
-Alla kring Norrköping jublar, Patricio på GAcenter har öppnat upp med Bubbleball och Archrtag i Norrköping.
+
+Alla kring Norrköping jublar, Micke och Bosse på GAcenter har öppnat upp med Bubbleball och Archrtag i Norrköping.
+
 Med en enorm drivkraft, stor lust och ett härligt engagemang kommer Svensexor, Möhippor, Företagsaktiviteer och Barnkalas i Norrköping bli så mycket roligare.
+
 GA Center mjukstartar med Bubbleball och Archertag (Pilbågskrig) nu i vinter, till våren öppnar ett komplett inomhuscenter, med allt från golf till event-aktiviteter. Komplett helt enkelt, både mobila aktiviteter och fasta stationerade på GA Center.
 
 Så välkomna!
+
 Hälsningar,
-Micke  Strandh
+
+Micke &amp; Bosse
 
 </div>
 [/vc_column_text][/vc_column][/vc_row]
