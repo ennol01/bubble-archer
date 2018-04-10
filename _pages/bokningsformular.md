@@ -15,10 +15,10 @@ post_date: 2017-03-08 19:08:24
 
 Behöver ni ljudanläggning? Vi fixar det också!!
 
-Missa inte Archertag-Erbjudandet, <a href="http://www.bubbleball.se/erbjudanden/stockholm-26675760">klicka här!!!</a>
+Missa inte Archertag och eller/kofotboll för halva priset-Erbjudandet, <a href="http://www.bubbleball.se/erbjudanden/stockholm-26675760">klicka här!!!</a>
 
 Cirkapris enligt ordinarie prislista* 390:- per person. Minsta debitering 10 personer.
-(Lokala variationer förekommer, 390:-pp är nationellt riktpris)
+(Lokala variationer förekommer, 390:-pp är nationellt riktpris för upp till två timmars spel)
 
 <em>*Lokala prisvariationer förekommer</em>[/vc_column_text][contact_form mail_to="ennoladwig@me.com"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
 <h1><strong>08-218505</strong></h1>
