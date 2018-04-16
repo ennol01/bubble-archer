@@ -23,7 +23,7 @@ Missa inte Archertag och eller/kofotboll för halva priset-Erbjudandet, <a href=
 
 <em>*Lokala prisvariationer förekommer</em>
 
-[/vc_column_text][contact_form mail_to="ennoladwig@me.com"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
+[/vc_column_text][contact_form mail_to="andreas@aktiviteterstockholm.se"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
 <h1><strong>08-218505</strong></h1>
 [/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning:
 boka@bubbleball.se
