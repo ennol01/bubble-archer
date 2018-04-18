@@ -4,8 +4,7 @@ post_title: Så går det till
 author: ennol
 post_excerpt: ""
 layout: post
-permalink: >
-  http://2017.bubbleball.se/sa-gar-det-till/
+permalink: http://archertag.se/oevriga-orter/
 published: true
 post_date: 2017-03-01 16:20:27
 ---
