@@ -8,7 +8,7 @@ permalink: http://bubbleball.se/kop-produkter/
 published: true
 post_date: 2017-03-01 16:29:22
 ---
-[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
+[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1524039462879{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: -20px !important;}"]
 <h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
 [/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1524038283962{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Boka spel, hyr utrustning, köp egen utrustning i HELA landet. Ring 08-218505 eller prata med din närmaste bubbleball leverantör.
 
