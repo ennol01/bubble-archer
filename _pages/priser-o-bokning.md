@@ -1,6 +1,6 @@
 ---
 ID: 382
-post_title: Priser o Bokning
+post_title: Priser och Bokning
 author: ennol
 post_excerpt: ""
 layout: page
