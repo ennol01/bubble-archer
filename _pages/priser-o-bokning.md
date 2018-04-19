@@ -8,7 +8,7 @@ permalink: http://archertag.se/priser-o-bokning/
 published: true
 post_date: 2017-11-01 12:41:40
 ---
-[vc_row][vc_column width="2/3"][vc_text_separator title="Kontakta &amp; bokning av ArcherTag" color="blue"][vc_column_text]Välkomna med er bokning av succéaktiviteten Archertag till ert event!
+[vc_row][vc_column width="2/3"][heading2 title="Kontakta &amp; bokning av ArcherTag"][vc_column_text]Välkomna med er bokning av succéaktiviteten Archertag till ert event!
 
 Ni kan ringa oss, mejla oss eller fylla i formuläret till höger för att boka eller ställa frågor. Vi svarar på alla förfrågningar så fort vi kan.
 
