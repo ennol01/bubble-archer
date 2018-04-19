@@ -25,7 +25,7 @@ post_date: 2017-03-08 19:15:25
 
 Oj, här finns ett utbud av sällan skådade mått. Helt otroligt roligt ställe för alla, och nu kanske lite extra roligt då Bubbleball ingår i både fasta och mobila verksamheten på Äventyrscampen i Sövde!
 
-Det är med stort B, värt ett BESÖK på Skånes största Aktivitets- och vildmarksanläggning för alla grupper, företag, privatpersoner, föreningar och festligheter.
+Det är med stort B, värt ett BESÖK på Skånes största Aktivitets- och vildmarksanläggning för alla grupper, företag, privatpersoner, föreningar och festligheter!
 
 Här hittar du bland annat:
 <ul>
