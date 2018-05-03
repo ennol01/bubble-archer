@@ -30,33 +30,29 @@ boka@bubbleball.se
 
 Frågor och övrigt:
 info@bubbleball.se[/vc_column_text][heading2 title="Kontakter regionskontor"][vc_column_text]<strong>Stockholm / Uppsala / Västerås / Enköping / Mälardalen</strong>
-<em>Andreas Dybedahl</em>,
-mejl: andreas@bubbleball.se
-mobil: 0707-616952
+<em>Markus Dahlberg</em>
+mejl: markus@bubbleball.se
+mobil: 070-5396719
 
 <strong>Göteborg / Halmstad</strong>
 <em>Niklas Luthin</em>
 Mejl: Niklas@bubbleball.se
-Tel: 0708-171 260
 
 <strong>Helsingborg / Malmö </strong>
 <em>Magnus Pettersson</em>
 Mejl: Magnus@bubbleball.se
-Tel: 0418-72262
 
 <strong>Örebro / Lindesberg</strong>
 <em>Björn Persson</em>
-070-6543737
-Mejl: orebro@bubbleball.se
+orebro@bubbleball.se
 
 <strong>Karlstad / Vänernområdet</strong>
 <em>Eddie</em>
-0700-050345
 Mejl: karlstad@bubbleball.se
 
 <strong>Östersund</strong>
 <i>Erica Jonemar
-</i>Mejl: nojesbruket@bubbleball.se
+</i>nojesbruket@bubbleball.se
 
 <strong>Blekinge</strong>
 Johan Holmqvist
@@ -65,8 +61,7 @@ blekinge@bubbleball.se
 
 <strong>Norrköping</strong>
 Patricio Boiardt
-patricio@bubbleball.se
-0739-395100
+norrkoping@bubbleball.se
 
 <strong>Umeå / Balfors</strong>
 Andreas Lind
