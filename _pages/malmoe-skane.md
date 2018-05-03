@@ -8,7 +8,7 @@ permalink: http://archertag.se/malmoe-skane/
 published: true
 post_date: 2017-05-14 13:38:48
 ---
-[vc_row][vc_column][heading2 title="Malmö/Skåne"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="TRE nya fantastiska aktiviteter i Malmö/Skåne"][vc_single_image image="148" img_size="full"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
+[vc_row][vc_column][heading2 title="Malmö/Skåne"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="TRE nya fantastiska aktiviteter i Malmö/Skåne"][vc_single_image image="148" img_size="medium"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
 Bubbleball + Kofotboll = Dubbelt så roligt!
 Archertag + Koftoboll = Dubbelt så roligt!
 Bubbleball + kofotboll + archertag = <strong>TRIPPELT</strong>så roligt
@@ -27,7 +27,7 @@ Ordinarie, 390+390+390= 1170:-
 NU endast 690:-pp
 Minsta debitering 8 pers (ordinarie 10 pers)
 
-Gör din förfrågan här:[/vc_column_text][vc_btn title="Till webbokningen" style="custom" custom_background="#1e73be" custom_text="#666666" align="center" i_icon_fontawesome="fa fa-window-maximize" button_block="true" add_icon="true" link="url:http%3A%2F%2Farchertag.se%2Fpriser-o-bokning%2F|||"][heading2 title="Bokingsregler"][vc_column_text]
+Gör din förfrågan här:[/vc_column_text][vc_btn title="Till webbokningen" style="custom" custom_background="#1e73be" custom_text="#666666" align="center" i_icon_fontawesome="fa fa-window-maximize" button_block="true" add_icon="true" link="url:http%3A%2F%2Farchertag.se%2Fpriser-o-bokning%2F|||"][heading2 title="Bokningsregler"][vc_column_text]
 <ul>
  	<li>Kund debiteras anmält antal deltagare (minsta debitering 10 personer)</li>
  	<li>Senast 48 timmar innan event skall kund bekräfta antal betalande deltagare.</li>
