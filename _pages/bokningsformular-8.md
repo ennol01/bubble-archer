@@ -4,8 +4,7 @@ post_title: Bokningsformulär
 author: ennol
 post_excerpt: ""
 layout: page
-permalink: >
-  http://2017.archertag.se/bokningsformular-8/
+permalink: http://archertag.se/bokningsformular-8/
 published: true
 post_date: 2017-03-08 19:08:24
 ---
@@ -20,7 +19,7 @@ Missa inte Archertag-Erbjudandet, <a href="http://www.bubbleball.se/erbjudanden/
 Cirkapris enligt ordinarie prislista* 390:- per person. Minsta debitering 10 personer.
 (Lokala variationer förekommer, 390:-pp är nationellt riktpris)
 
-<em>*Lokala prisvariationer förekommer</em>[/vc_column_text][contact_form mail_to="ennoladwig@me.com"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
+<em>*Lokala prisvariationer förekommer</em>[/vc_column_text][contact_form mail_to="boka@bubbleball.se"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
 <h1><strong>08-218505</strong></h1>
 [/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning:
 boka@bubbleball.se
@@ -28,7 +27,7 @@ boka@bubbleball.se
 Frågor och övrigt:
 info@bubbleball.se[/vc_column_text][heading2 title="Kontakter regionskontor"][vc_column_text]<strong>Stockholm / Uppsala / Västerås / Enköping / Mälardalen</strong>
 <em>Andreas Dybedahl</em>,
-mejl: andreas@bubbleball.se
+mejl: boka@bubbleball.se
 mobil: 0707-616952
 
 <strong>Göteborg / Halmstad</strong>
