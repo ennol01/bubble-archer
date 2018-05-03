@@ -14,7 +14,7 @@ post_date: 2017-03-29 17:46:05
 <div id="block_container_85881179" class="block_container h24_block_heading">
 <div id="block_85881179">
 <div class="big_heading_block">
-<div id="block_85881179_text_content" class="">Vi levererar Bubbleball och Bumperball till hela Sverige!</div>
+<div id="block_85881179_text_content" class=""><strong>Vi levererar Bubbleball och Bumperball till hela Sverige!</strong></div>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ Vi har partner i hela landet. De orter där vi saknar lokalkontor täcker vi 
 <div id="block_container_98458541" class="block_container h24_block_heading">
 <div id="block_98458541">
 <div class="small_heading_block">
-<div id="block_98458541_text_content" class="">Störst på BubbleBall i Sverige</div>
+<div id="block_98458541_text_content" class=""><strong>Störst på BubbleBall i Sverige</strong></div>
 </div>
 </div>
 </div>
@@ -64,7 +64,7 @@ Vi finns idag i Stockholm, Västerås, Uppsala, Nyköping, Norrtälje, Rimbo, �
 <div id="block_container_98458541" class="block_container h24_block_heading">
 <div id="block_98458541">
 <div class="small_heading_block">
-<div id="block_98458541_text_content" class="">Störst på BubbleBall i Sverige</div>
+<div id="block_98458541_text_content" class=""><strong>Störst på BubbleBall i Sverige</strong></div>
 </div>
 </div>
 </div>
