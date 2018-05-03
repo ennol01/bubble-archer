@@ -10,7 +10,6 @@ post_date: 2017-05-14 13:38:59
 ---
 [vc_row][vc_column][heading2 title="Fantastiska aktiviteter i Norrköping"][vc_single_image image="145" img_size="medium"][/vc_column][/vc_row][vc_row][vc_column width="2/3"][vc_column_text]Archertag + Bubbleball = Dubbelt så roligt!
 Välj två valfria aktiviteter, för 550:-pp
-Alla tre grenar, 690:-pp
 
 <strong>Exempel,</strong>Spela två hysteriskt roliga spel på en samma plats och dag:
 1 timme Bubbleball och 1 timme Archertag
