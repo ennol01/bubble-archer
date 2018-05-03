@@ -24,7 +24,7 @@ Bubble football kan spelas på gräs, konstgräs eller inomhus.[/vc_column_text]
 </ul>
 [/vc_column_text][heading2 title="Pris"][vc_column_text]
 <ul>
- 	<li>se <a href="http://www.bubbleball.se/boka/priser-24251165">sidan om priser</a></li>
+ 	<li>se <a href="http://bubbleball.se/boka/priser/">sidan om priser</a></li>
 </ul>
 [/vc_column_text][/vc_column][vc_column width="1/3" css=".vc_custom_1509098626110{margin-top: 40px !important;}"][heading2 title="Så går det till"][vc_column_text]En instruktör möter upp er på den plats ni valt att boka er aktivitet. Instruktören visar er grunderna. Det tar inte lång tid innan ni fintar, tacklar och gör målgester på egen hand.
 
