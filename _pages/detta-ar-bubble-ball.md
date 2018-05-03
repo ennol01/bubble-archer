@@ -36,7 +36,7 @@ Ta emot en rejäl tackling och studsa upp igen med ett leende på läpparna och 
  	<li>Transport</li>
  	<li>Dryckespaket</li>
  	<li>Musikanläggning</li>
- 	<li>Fler grenar (se t ex vår nyhet <a href="http://www.bubbleball.se/k%C3%B6p-produkter/nytt-archertag!-29196235">ArcherTag</a>)</li>
+ 	<li>Fler grenar (se t ex vår nyhet <a href="http://www.archertag.se">ArcherTag</a>)</li>
 </ul>
 [/vc_column_text][heading2 title="Videoklipp med Bubble Ball"][vc_single_image image="344" img_size="full" alignment="center"][/vc_column][vc_column width="1/3" css=".vc_custom_1509098636518{margin-top: 40px !important;}"][heading2 title="Spelet"][vc_column_text]
 <ul>
