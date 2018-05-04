@@ -24,7 +24,8 @@ Missa inte Archertag och eller/kofotboll för halva priset-Erbjudandet, <a href=
 <em>*Lokala prisvariationer förekommer</em>
 
 [/vc_column_text][contact_form mail_to="boka@bubbleball.se"][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
-<h1><strong>08-218505</strong></h1>
+<h1><strong>08-218505
+sms 072-3425713</strong></h1>
 [/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning:
 boka@bubbleball.se
 
@@ -32,7 +33,7 @@ Frågor och övrigt:
 info@bubbleball.se[/vc_column_text][heading2 title="Kontakter regionskontor"][vc_column_text]<strong>Stockholm / Uppsala / Västerås / Enköping / Mälardalen</strong>
 <em>Markus Dahlberg</em>
 mejl: markus@bubbleball.se
-mobil: 070-5396719
+mobil: 072-3425713
 
 <strong>Göteborg / Halmstad</strong>
 <em>Niklas Luthin</em>
@@ -60,7 +61,7 @@ blekinge@bubbleball.se
 0723-080838
 
 <strong>Norrköping</strong>
-Patricio Boiardt
+Michael Strand
 norrkoping@bubbleball.se
 
 <strong>Umeå / Balfors</strong>
