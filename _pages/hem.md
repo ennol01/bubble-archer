@@ -1,23 +1,29 @@
 ---
-ID: 8
-post_title: Home
+ID: 130
+post_title: Hem
 author: ennol
 post_excerpt: ""
 layout: page
-permalink: http://archertag.se/
+permalink: http://bubbleball.se/
 published: true
-post_date: 2017-05-14 13:28:54
+post_date: 2017-03-08 12:31:16
 ---
-[vc_row][vc_column width="1/3"][vc_single_image image="85" img_size="400x226" style="vc_box_rounded"][vc_column_text]<strong>Det här är Archertag</strong>
-"Som paintball med pilbågar"
-Vi bygger en bana med skydd att ta betäckning bakom och ni försöker sedan pricka spelarna i motståndarlaget med pilar (som har patenterade, mjuka spetsar  vilket dämpar träffen). Träffa samtliga motspelare eller inta det andra lagets hemmabas - ett actionfyllt pilbågskrig och fantastiskt roligt alltså!
+[vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
+<h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
+[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][vc_column width="1/6" css=".vc_custom_1508492632173{margin-top: -40px !important;}"][vc_btn title="BOKA HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" size="lg" align="center" css_animation="bounceInRight" button_block="true" css=".vc_custom_1516618576413{margin-top: 30px !important;margin-right: 20px !important;border-right-width: 30px !important;border-left-width: 30px !important;padding-top: 25px !important;padding-right: 10px !important;padding-bottom: 25px !important;padding-left: 10px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fboka%2Fbokningsformular%2F|||"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][heading2 title="Bubbleball i hela Sverige"][vc_single_image image="389" img_size="full"][vc_column_text css=".vc_custom_1508497371400{margin-top: -40px !important;}"]<b>Om Bubbleball</b>
 
-<strong>Välkomna med er bokning!</strong>[/vc_column_text][/vc_column][vc_column width="1/3"][vc_video link="https://www.youtube.com/watch?v=uQLSsrEFLjM"][vc_column_text]
+En fartfylld aktivitet, där ni på ett säkert sätt kan tackla kollegorna. Garanterat skratt, fart och härliga närkamper. Spela fotboll iklädda luftfyllda skyddsvästar i form av bollar.
 
-&nbsp;
+Vanligaste aktiviteterna är fotbollsturnering, gladiator-rugby eller "human bowling".
 
-<strong>Bokningsförfrågan online</strong>
-Trycket är redan högt på denna ny aktivitetsfluga! Boka i god tid för att försäkra er om att ni får just den tid ni önskar.
+Upplägget är helt mobilt, vi kommer till er i hela Sverige. Man spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Läs mer" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" css=".vc_custom_1509534983535{margin-top: 0px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fom-bubble-ball%2Fdetta-ar-bubble-ball%2F|||"][/vc_column][vc_column width="1/3"][heading2 title="Upplev BubbleBall"][vc_video link="https://www.youtube.com/watch?v=f92yfPFl9NY"][vc_column_text]<b>Hur kul vill ni ha??</b>
 
-Vi har upplägg för både företag och privatpersoner. Aktiviteten är mobil och kan genomföras både inne och ute och vi är rikstäckande genom våra lokala event-partner. Välkommen med er bokningsförfrågan![/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image image="88" img_size="400x223" alignment="center"][vc_column_text]<strong>Kombinera med Bubbleball till specialpris!</strong>
-Två flugor i en smäll. Eftersom vi även tillhör  landets största och mest rutinerade leverantör av Bubbleball-event kan ni boka ett extra förmånligt kombinationsevent med <em>både</em>Archertag och Bubbleballs![/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vc_btn title="Mer info om archerytag" color="blue" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" link="url:http%3A%2F%2Farchertag.se%2Fom-archertag-pilbagskrig%2F|||"][/vc_column][vc_column width="1/3"][vc_btn title="Boka här" color="blue" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" link="url:http%3A%2F%2Farchertag.se%2Fpriser-o-bokning%2F|||"][/vc_column][vc_column width="1/3"][vc_btn title="Mer info om specialpaket" color="blue" align="center" i_align="right" i_icon_fontawesome="fa fa-arrow-right" button_block="true" add_icon="true" link="url:http%3A%2F%2Fbubbleball.se%2Ferbjudanden%2Fstockholm%2F|||"][/vc_column][/vc_row]
+Det finns inga begränsningar på vad man kan hitta på med bollarna, men den vanligaste aktiviteten är att köra en fotbollsturnering.
+
+Kolla in våra roliga videoklipp med bl.a fotboll, bowling och anndra idéer på vad ni kan göra på ert event.
+
+Upplägget är helt mobilt, vi kommer till er med bollar och annan utrustning. Vi spelar på gräs, konstgräs eller inomhus.[/vc_column_text][vc_btn title="Se videoklipp" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_align="right" i_icon_fontawesome="fa fa-play-circle-o" button_block="true" add_icon="true" link="url:http%3A%2F%2Fbubbleball.se%2Fom-bubble-ball%2Fvideoklipp%2F|||"][/vc_column][vc_column width="1/3"][heading2 title="Vi kan det här!"][vc_single_image image="388" img_size="full"][vc_column_text css=".vc_custom_1526039016603{margin-top: -30px !important;}"]<strong>Först i Sverige på BubbleBall</strong>
+
+Vi har det, vi kan det, vi startade det och vi har erfarenhet av tiotusentals lyckliga kunder.
+
+Vanligaste kommentaren: "<strong>det här är det roligaste vi någonsin gjort"</strong> säger både spelare och åskådare. Vi har utvecklat materialet i samråd med producenten och har nu de mest hållbara BubbleBall-bollarna på marknaden. Boka turnering med företaget, svensexan, möhippan eller idrottslaget nu![/vc_column_text][vc_btn title="Boka här" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_align="right" i_icon_fontawesome="fa fa-calendar" button_block="true" add_icon="true" css=".vc_custom_1509535025747{margin-top: 45px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fboka%2Fbokningsformular%2F|||"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="30px"][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="Vi söker fler partner i Sverige!" title_align="separator_align_left"][vc_column_text]Vi finns idag i Stockholm, Västerås, Uppsala, Nyköping, Norrtälje, Rimbo, Åkersberga, Ven, Malmö, Landskrona, Karlskrona, Karlshamn, Halmstad, Göteborg, Eskilstuna, Strängnäs, Örebro, Värnamo, Jönköping, Sundsvall, Luleå, Karlstad, Helsingborg, Åre, Blekinge, Kalmar, Östersund och Umeå  -  men vi får förfrågningar från fler orter i Sverige och söker därför fler företag som vill bli vår partner. Vi levererar all utrustning ni behöver och sköter marknadsföringen - ni tar hand om kunderna. Låter detta intressant? Kontakta oss snarast![/vc_column_text][vc_single_image image="101" img_size="1200x300" alignment="center"][vc_btn title="Bli BubbleBall.se partner - ANSÖK HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="left" i_align="right" i_icon_fontawesome="fa fa-hand-o-right" button_block="true" add_icon="true" css=".vc_custom_1509535049794{margin-top: -50px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fom-bubble-ball%2Fbli-partner-till-oss%2F|||"][/vc_column][/vc_row]
