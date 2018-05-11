@@ -11,12 +11,11 @@ post_date: 2017-03-08 19:02:58
 ---
 [vc_row][vc_column width="5/6" css=".vc_custom_1508492582033{margin-top: -40px !important;}"][vc_column_text css=".vc_custom_1508491377535{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}"]
 <h3><span style="color: #ff00ff;"><strong>SUCCÉSPORTEN!</strong></span></h3>
-[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][vc_column width="1/6" css=".vc_custom_1508492632173{margin-top: -40px !important;}"][vc_btn title="BOKA HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" size="lg" align="center" css_animation="bounceInRight" button_block="true" css=".vc_custom_1516620161553{margin-top: 30px !important;margin-right: 20px !important;border-right-width: 30px !important;border-left-width: 30px !important;padding-top: 25px !important;padding-right: 10px !important;padding-bottom: 25px !important;padding-left: 10px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fboka%2Fbokningsformular%2F|||"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="Bli en av våra BubbleBall-partner i Sverige"][/vc_column][vc_column width="4/6"][vc_column_text]Trygghet med oss, vi har seriös leverantör med hög kvalitet.
+[/vc_column_text][vc_single_image image="342" img_size="full" css=".vc_custom_1508491684320{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1508492549021{margin-top: -50px !important;border-top-width: 0px !important;padding-top: 0px !important;}"]Vi ordnar spel över hela landet. Ring centralbokningen för mer info 08-21 85 05[/vc_column_text][/vc_column][vc_column width="1/6" css=".vc_custom_1508492632173{margin-top: -40px !important;}"][vc_btn title="BOKA HÄR!" style="custom" custom_background="#fc6021" custom_text="#ffffff" size="lg" align="center" css_animation="bounceInRight" button_block="true" css=".vc_custom_1516620161553{margin-top: 30px !important;margin-right: 20px !important;border-right-width: 30px !important;border-left-width: 30px !important;padding-top: 25px !important;padding-right: 10px !important;padding-bottom: 25px !important;padding-left: 10px !important;}" link="url:http%3A%2F%2Fbubbleball.se%2Fboka%2Fbokningsformular%2F|||"][/vc_column][/vc_row][vc_row][vc_column][heading2 title="Bli en av våra BubbleBall-partner i Sverige"][/vc_column][vc_column width="4/6"][vc_column_text]Med oss få ni trygghet och garanterad kvalitet.
+
 I samråd med tillverkaren har vi gradvis utvecklat materialet i de bollarna vi tillhandahåller. När vi startade verksamheten tillbringades mycket tid till att laga bollar efter genomförda event, och vi var tvungna att ta med flera reservbollar när vi var ute på jobb, det blev ohållbart.
 
-De bollar vi nu fått fram och använder är otroligt slitstarka. Vi har bara behövt göra fåtalet lagningar (ex.bollen träffade ett kvarglömt spett från ett cirkustält, kunderna trycker in polarn i skogen och där vart det haggtornsbuskar). Det finns inga BubbleBall-bollar som är lika slitstarka som våra ute på marknaden just nu.
-
-Våra bollar är dessutom lättare än de flesta konkurrenters vilket gör våra bollar bekvämare för kunderna att ha på sig och röra sig med.
+De bollar vi nu säljer och använder oss av är marknadsledande. Otroligt slitstarka och dessutom lättare än liknande bollar på marknaden.
 
 Vi har nu även blivit återförsäljare av alla produkter hos vår partner, hela utbudet hittar ni här <a href="http://www.mywaterball.com/">www.mywaterball.com</a>[/vc_column_text][heading2 title="Marknadsföring"][vc_column_text]<strong>Vill ni vara med och arbeta med denna nya aktivitetsfluga?</strong>
 Vi har sedan april 2013 spelat med snart över <strong>25000 personer</strong>, vilket gör oss störst på BubbleBall i Sverige!
@@ -29,9 +28,9 @@ Vill du vara en del av detta erbjuder vi dig ett enkelt och förtjänstfullt upp
  	<li>Vi förmedlar kunder från hemsidan; utöver de ni redan har eller får kontakt med själva.</li>
  	<li>Ni får exklusivt kunder från angränsande lediga distrikt förmedlade, stort mervärde!</li>
  	<li>Vi marknadsför BubbleBalls både online och offline (SEO, SEM etc)</li>
- 	<li>Trygghet - Vår erfarenhet ger er trygghet i upstarten.</li>
- 	<li>Färdiga spelsystem för alla typer av event</li>
- 	<li>Garantier enligt Svensk l</li>
+ 	<li>Trygghet - Vår erfarenhet ger er trygghet i uppstarten.</li>
+ 	<li>Färdiga, fälttestade spelsystem för alla typer av event</li>
+ 	<li>Garantier enligt Svensk lag</li>
 </ul>
 [/vc_column_text][heading2 title="Försäljning och genomförande"][vc_column_text]Vi äger Svenska toppdomäner för både Bubble Ball, Bumper Balls och Loopy Ball. De marknadsförs primärt via adwords, <a href="https://www.facebook.com/bubbleball.se" target="_blank" rel="noopener">Facebook</a>, <a href="https://www.linkedin.com/company/bubbleball-se" target="_blank" rel="noopener">LinkedIn</a> och <a href="https://www.youtube.com/channel/UCqZTh9NQTc4S9JUjVGeELiw" target="_blank" rel="noopener">Youtube</a> men även via Instagram, Twitter, mejl, telefon och direktkontakt med kunder och partner.
 
@@ -46,9 +45,9 @@ Vi hjälper gärna till vid större arrangemang, t.ex. stora ungdomsturneringar 
  	<li>En kompressorpump (1800w)
 +en extrapump (1200w)</li>
  	<li>2 st uppblåsbara fotbollsmål</li>
- 	<li>1st special större fotboll</li>
+ 	<li>1st specialtillverkad, större fotboll</li>
  	<li>Reprarationskit</li>
- 	<li>Förvaringsväsk</li>
+ 	<li>Förvaringsväskor</li>
  	<li>Egen mejladress t ex namn@bubbleball.se</li>
  	<li>utrustningar levereras med varumärkestryck Bubbleball.se – kan givetvis kompletteras med valfritt eget tryck</li>
 </ul>
