@@ -1,6 +1,6 @@
 ---
 ID: 288
-post_title: Våra Partner
+post_title: Våra Partners
 author: ennol
 post_excerpt: ""
 layout: page
@@ -24,7 +24,7 @@ post_date: 2017-03-29 17:46:05
 <div class="h24_frame_none_text h24_frame_padding">
 <div class="text_content">
 
-Vi har partner i hela landet. De orter där vi saknar lokalkontor täcker vi uppmed vår mobila verksamhet. Så finns vi inte på just din ort så åker vi mer än gärna ut till er och levererar ert event. Tveka inte att höra av er om ni är intresserade av att spela BubbleBall!
+Vi har partners i hela landet. De orter där vi saknar lokalkontor täcker vi upp med vår mobila verksamhet. Så finns vi inte på just din ort så åker vi mer än gärna ut till er och levererar ert event. Tveka inte att höra av er om ni är intresserade av att spela BubbleBall!
 
 </div>
 </div>
