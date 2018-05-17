@@ -28,7 +28,7 @@ Telefon till oss på fältet/sms: 072-342 57 13
 
 Mejladress till oss: info@archertag.se
 
-[/vc_column_text][contact_form mail_to="boka@archertag.se"][vc_column_text]Adress huvudkontoret:
+[/vc_column_text][contact_form mail_to="boka@bubbleball.se"][vc_column_text]Adress huvudkontoret:
 Aktiviteter Stockholm AB
 Strandbergsgatan 61
 112 51 Stockholm
