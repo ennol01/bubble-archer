@@ -37,10 +37,10 @@ Strandbergsgatan 61
 Bankgiro: 5782-3262
 Swish: 123-54 30 996
 Org.nr: 556765-0774
-Innehar F-skattebevis[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
+Innehar F-skattebevis[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Tele centralbokningen"][vc_column_text]
 <h3><strong>08-218505
 sms 072-342 57 13</strong></h3>
-[/vc_column_text][heading2 title="E-Post till huvudkontoret"][vc_column_text]Bokning:
+[/vc_column_text][heading2 title="E-Post till HK"][vc_column_text]Bokning:
 <a href="mailto:boka@archertag.se">boka@archertag.se</a>
 
 Frågor och övrigt:
