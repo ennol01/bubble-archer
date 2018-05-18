@@ -16,19 +16,19 @@ Bubbleball + Kofotboll = Dubbelt så roligt!
 Archertag + Koftoboll = Dubbelt så roligt!
 Bubbleball + kofotboll + archertag = <strong>TRIPPELT</strong> så roligt
 
-Välj två valfria aktiviteter, för 590:-pp
-Alla tre grenar, 690:-pp
+Välj två valfria aktiviteter för 590 kr per person
+Alla tre grenar kostar 690 kr person
 
 <strong>Exempel,</strong> Spela två hysteriskt roliga spel på en samma dag:
 1 timme Bubbleball och 1 timme Archertag
-Ordinarie pris; 780:-, Nu betalar endast 590:- per person.
-Minsta debitering är 8 personer (ordinarie 10 pers)
+Ordinarie pris; 780 kr, Nu betalar ni endast 590 kr per person.
+Vid dessa kombierbjudanden minimidebitering 8 personer istället för 10.
 
 <strong>Exempel 2</strong>,
-Bubbleball, Koboll och Archertag
-Ordinarie, 390+390+390= 1170:-
-NU endast 690:-pp
-Minsta debitering 8 pers (ordinarie 10 pers)
+Bubbleball, Koboll och Archertag, alla tre grenarna
+Ordinarie, 390+390+390= 1170 kr/person
+NU endast 69o kr/prson
+Vid dessa kombierbjudanden minimidebitering 8 personer istället för 10.
 
 Gör din förfrågan här:[/vc_column_text][vc_btn title="Till webbokningen" style="custom" custom_background="#fc6021" custom_text="#ffffff" align="center" i_type="typicons" i_icon_typicons="typcn typcn-calendar-outline" css_animation="fadeInDown" button_block="true" add_icon="true" link="url:http%3A%2F%2Fbubbleball.se%2Fboka%2Fbokningsformular%2F|||"][heading2 title="Bokningsregler"][vc_column_text]
 <ul>
