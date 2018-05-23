@@ -36,7 +36,7 @@ I detta ingår
  	<li>Vid företag över 25 personer offereras</li>
 </ul>
 ​
-Framkörning kan tillkomma. Fråga vid <a href="http://www.bubbleball.se/boka-22260211">bokning</a>.[/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Bokning, betalning &amp; bokningsregler"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+Framkörning kan tillkomma. Fråga vid <a href="http://bubbleball.se/boka/bokningsformular/">bokning</a>.[/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Bokning, betalning &amp; bokningsregler"][heading2 title="Bokning - sker via mejl"][vc_column_text]
 <ol>
  	<li>Namn, adress &amp; telenummer</li>
  	<li>Spelplats, datum, tid och antal deltagare.</li>
