@@ -4,10 +4,8 @@ post_title: Bubbleball och Bumperball i Norrköping
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
-permalink: >
-  http://bubbleball.se/Partnerssynced/norrkoping/
-published: true
-post_date: 2017-03-08 19:09:34
+permalink: 'https://bubbleball.se/?post_type=partnerssynced&p=183'
+published: false
 ---
 [vc_row][vc_column][vc_column_text]
 <div id="block_88052326_text_content" class="text_content">
