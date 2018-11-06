@@ -16,11 +16,12 @@ post_date: 2018-04-16 14:51:29
 - flyleveranser 5-14 dagar (plus ev. produktionstid)
 - båtleverans ca 8 veckor (plus ev. produktionstid)
 
+<strong>Båtfrakt</strong>
+
 * I många fall kan man kapa fraktkostnaderna rejält om man kan tänka sig att vänta lite längre på leverans.
 Det gäller vid;
-- stora beställningar som samlevereras 2 gånger per år.
+- stora beställningar som samlevereras två gånger per år.
 - eller de stora tunga produkterna över ca 100kg
 
 * Fråga oss vid beställning så hjälper vi er med förmånligaste alternativet efter era förutsättningar.
-
-[/vc_column_text][/vc_column][/vc_row]
+Samtliga <a href="https://bubbleball.se/product-category/erbjudanden-2019/">Erbjudanden 2019</a> är baserade på båtfraktens reducerade kostnader.[/vc_column_text][/vc_column][/vc_row]
