@@ -34,9 +34,7 @@ Vid kombinationsbokningarna minsta debbitiering 8 personer.
 Är nu en del av <a href="http://www.aktivitetersverige.se">www.aktivitetersverige.se</a>
 Aktiviteter Sverige är sveriges största producent av uppblåsbara aktivitetsprodukter och tält, störst kompletterande utbud av produkter, tjänster och koncept.
 
-<img class="alignnone  wp-image-1579" src="https://bubbleball.se/wp-content/uploads/2017/03/Aktsve-120cm.jpg" alt="" width="536" height="110" />
-
-&nbsp;
+<img class="alignnone wp-image-1579" src="https://bubbleball.se/wp-content/uploads/2017/03/Aktsve-120cm.jpg" alt="" width="536" height="110" />
 
 </div>
 </div>
