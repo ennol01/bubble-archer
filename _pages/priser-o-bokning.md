@@ -26,10 +26,12 @@ Minsta debitering 10 personer
 Telefon till huvudkontoret: 08-21 85 05
 Telefon till oss på fältet/sms: 072-342 57 13
 
-<strong>BOKA? Skicka mail till info@archertag.se</strong>[/vc_column_text][vc_column_text]Adress huvudkontoret:
+<strong>BOKA? Skicka mail till <a href="mailto:info@bubbleball.se">info@archertag.se</a></strong>
+
+Du vet väl att vi är en del av <a href="https://www.aktivitetersverige.se/sv/om-oss.html">www.aktivitetersverige.se </a>[/vc_column_text][vc_column_text]Adress huvudkontoret:
 Aktiviteter Stockholm AB
-Strandbergsgatan 61
-112 51 Stockholm
+Skolvägen 33
+196 34 Kungsängen
 
 Övrig info:
 Bankgiro: 5782-3262
