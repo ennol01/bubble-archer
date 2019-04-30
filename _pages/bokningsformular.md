@@ -20,9 +20,7 @@ post_date: 2017-03-08 19:08:24
 Missa inte Archertag och eller/kofotboll för halva priset-Erbjudandet, <a href="http://bubbleball.se/erbjudanden/stockholm/">klicka här!!!</a>
 
 <em>*Lokala prisvariationer förekommer</em>
-
-boka via mail till <a href="mailto:info@bubbleball.se">info@bubbleball.se</a>
-
+<h1>boka via mail till <a href="mailto:info@bubbleball.se">info@bubbleball.se</a></h1>
 <strong>Vi har för tillfället nytt kontaktforumlär på gång. Så boka via info@bubbleball.se med info tills vidare;</strong>
 <strong>*datum</strong>
 <strong>*ort</strong>
