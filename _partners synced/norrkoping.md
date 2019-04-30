@@ -19,9 +19,7 @@ Bubbleball i östergötland utgår från Norrköping.
 
 Växeln/Centralbokning;
 08-21 85 05
-
-Mejl:info@bubbleball.se
-
+<h4>Mejl: <a href="mailto:Norrkoping@bubbleball.se">Norrkoping@bubbleball.se</a></h4>
 Boka Bubbelabll, archertag och sumobrottning.
 Bubbelabll 350:-pp
 Archertag 350:-pp
@@ -29,7 +27,7 @@ Bubbelabll och Archertag 550:-pp
 Bubbleball, archertag &amp; Sumobrottning, 590:-pp
 
 Minsta debitering 10 personer
-Vid kombinationsbokningarna minsta debbitiering 8 personer.
+Vid kombinationsbokningarna minsta debitiering 8 personer.
 
 Är nu en del av <a href="http://www.aktivitetersverige.se">www.aktivitetersverige.se</a>
 Aktiviteter Sverige är sveriges största producent av uppblåsbara aktivitetsprodukter och tält, störst kompletterande utbud av produkter, tjänster och koncept.
