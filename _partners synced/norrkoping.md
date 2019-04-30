@@ -19,7 +19,8 @@ Bubbleball i östergötland utgår från Norrköping.
 
 Växeln/Centralbokning;
 08-21 85 05
-<h4>Mejl: <a href="mailto:Norrkoping@bubbleball.se">Norrkoping@bubbleball.se</a></h4>
+<h6>Mejl/Boka:
+<a href="mailto:Norrkoping@bubbleball.se">Norrkoping@bubbleball.se</a></h6>
 Boka Bubbelabll, archertag och sumobrottning.
 Bubbelabll 350:-pp
 Archertag 350:-pp
