@@ -7,7 +7,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://archertag.se/Partnerssynced/karlskrona/
+  https://bubbleball.se/Partnerssynced/karlskrona/
 published: true
 post_date: 2017-03-08 19:13:27
 ---
@@ -21,12 +21,12 @@ post_date: 2017-03-08 19:13:27
 <div id="block_89654250">
 <div id="block_89654250_text_content" class="text_content">
 
-<img class="alignnone size-full wp-image-1186" src="http://2017.bubbleball.se/wp-content/uploads/2017/03/web-Bubbleball-och-archerytag-karlskrona-ronneby-karlshamn.jpg" alt="" width="1200" height="300" />Blekinge, södra småland och östra skåne har nu täckning på kartan sen en tid.
+<img class="alignnone size-full wp-image-1186" src="http://bubbleball.se/wp-content/uploads/2017/03/web-Bubbleball-och-archerytag-karlskrona-ronneby-karlshamn.jpg" alt="" width="1200" height="300" />Blekinge, södra småland och östra skåne har nu täckning på kartan sen en tid.
 Bubbleball och Archertag är nu tillgängligt i princip dygnet runt, vart som helst och för vem som helst.
 
-Väljer ni Karlshamn som är Event14s utgångspunkt, ja då finns det skön bastuflotte och annat smågodis på denna örlogsbas......
+Väljer ni Karlskrona som är Event14s utgångspunkt, ja då finns det skön bastuflotte och annat smågodis på denna örlogsbas av möjligheter.
 
-Med en fast geografisk punkt också i denna region kan vi nu till erbjuda företagsaktiviteter, svensexor och möhippor med denna fantastiska aktivitet till rejält konkurentkraftiga priser.
+Med en fast geografisk punkt också i denna region kan vi nu till erbjuda företagsaktiviteter, svensexor och möhippor med denna fantastiska aktivitet till rejält konkurrent kraftiga priser.
 
 Vid frågor eller bokning ringer du till Centralbokningen på 08-218505.
 
