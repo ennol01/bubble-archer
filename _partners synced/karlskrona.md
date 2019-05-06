@@ -30,7 +30,7 @@ Med en fast geografisk punkt också i denna region kan vi nu till erbjuda föret
 
 Vid frågor eller bokning ringer du till Centralbokningen på 08-218505.
 
-Ni kan även skicka en <a href="http://www.bubbleball.se/boka/bokningsformul%C3%A4r-24254264">bokningsförfrågan via webben</a> - välkomna!
+Ni kan även skicka en bokningsförfrågan till info@bubbbeball.se - välkomna!
 
 </div>
 </div>
