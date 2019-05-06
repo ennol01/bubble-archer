@@ -2,7 +2,7 @@
 ID: 202
 post_title: >
   BubbleBalls i Karlskrona, Ronneby,
-  Karlshamn, Kalmar mm
+  Karlshamn mm
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
