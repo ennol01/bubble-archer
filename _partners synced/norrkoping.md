@@ -17,7 +17,9 @@ post_date: 2017-03-08 19:09:34
 
 Bubbleball i östergötland utgår från Norrköping.
 
-V<img class="alignnone size-full wp-image-1308" src="https://bubbleball.se/wp-content/uploads/2018/03/Erbjudande-WEB.jpg" alt="" width="880" height="299" />äxeln/Centralbokning;
+<img class="alignnone size-full wp-image-1308" src="https://bubbleball.se/wp-content/uploads/2018/03/Erbjudande-WEB.jpg" alt="" width="880" height="299" />
+
+Växeln/Centralbokning;
 
 08-21 85 05
 <h6>Mejl/Boka:
