@@ -21,13 +21,16 @@ Missa inte Archertag och eller/kofotboll för halva priset-Erbjudandet, <a href=
 
 <em>*Lokala prisvariationer förekommer</em>
 
+boka via mail till <a href="mailto:info@bubbleball.se">info@bubbleball.se</a> (då vårt formulär temporärt ligger nere)
+*datum
+*antal pers
+*telenummer
+*önskad ort
+Vi svarar samma eller nästkommande dag!
+
 &nbsp;
 
-boka via mail till <a href="mailto:info@bubbleball.se">info@bubbleball.se</a>
-
-&nbsp;
-
-eller boka via formuläret nedan:[/vc_column_text][vc_column_text][formidable id=3][/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
+[/vc_column_text][vc_column_text][/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
 <h1><strong>08-218505
 sms 072-3425713</strong></h1>
 [/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning, Frågor och övrigt:
