@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://archertag.se/Partnerssynced/goteborg/
+  https://bubbleball.se/Partnerssynced/goteborg/
 published: true
 post_date: 2017-03-08 19:09:15
 ---
@@ -16,7 +16,7 @@ post_date: 2017-03-08 19:09:15
 <div class="h24_image_block_align h24_image_block_align_left h24_image_block_radius_medium "><img id="block_img_87785171" class="presentation_image_block_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/46431628-TfvyH.jpg" alt="" /></div>
 <div></div>
 <div></div>
-<div class="h24_image_block_align h24_image_block_align_left h24_image_block_radius_medium "><strong>LUTHINS EVENT</strong></div>
+<div class="h24_image_block_align h24_image_block_align_left h24_image_block_radius_medium "><strong>Event Halland </strong></div>
 </div>
 </div>
 </div>
@@ -30,7 +30,7 @@ Vi har genomfört många Bubbleball-events i Halmstad, Göteborg, Borås, Alings
 
 Till och med självaste personalen från Liseberg valde oss för sitt personalevent!
 
-Välkomna med er bokning!!!
+Välkomna med er bokning!
 
 </div>
 </div>
