@@ -25,6 +25,8 @@ post_date: 2017-03-08 19:09:15
 <div id="block_87784889_text_content" class="text_content">
 
 Vi jobbar med skräddarsydda event och aktiviteter på privata och företagsfester. Genom lång erfarenhet från restaurang och eventbranschen samt med flera värdefulla kontakter hjälper vi dig att uppfylla dina önskemål om ett lyckat arrangemang från start till mål.
+Hos oss hyr du även mycket annat,
+Bubbleball, Hoppborgar, sockervaddsmaskiner, popcornmaskiner mm
 
 Vi har genomfört många Bubbleball-events i Halmstad, Göteborg, Borås, Alingsås, Varberg, Kungsbacka, Kinna, Värnamo och Falkenberg!
 
