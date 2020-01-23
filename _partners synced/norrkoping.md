@@ -1,43 +1,29 @@
 ---
 ID: 183
-post_title: 'Bubbleball  i Norrköping &#038; Linköping'
+post_title: Bubbleball och Bumperball i Norrköping
 author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  https://bubbleball.se/Partnerssynced/norrkoping/
+  http://archertag.se/Partnerssynced/norrkoping/
 published: true
 post_date: 2017-03-08 19:09:34
 ---
 [vc_row][vc_column][vc_column_text]
+<div id="text_block_image_88052326" class="float-left text_block_image_div h24_normal_text"><img id="block_img_88052326" class="resizeable text_image" title="" src="http://dst15js82dk7j.cloudfront.net/183390/64649695-SiCup.jpg" alt="" /></div>
 <div id="block_88052326_text_content" class="text_content">
 
-&nbsp;
-<div id="block_88052328_text_content" class="text_content">
+Äntligen!
 
-Bubbleball i östergötland utgår från Norrköping.
+Alla kring Norrköping jublar, Aktiviteter Norrköping har öppnat upp med Bubbleball och Archrtag i Norrköping, mend et finns mer, sumobrottning, teambuildingaktiviteter, företagsaktiviteter, hoppborgar, paketerade events och skräddarsydda företagsaktiviteter i Norrköping.
 
-<img class="alignnone size-full wp-image-1308" src="https://bubbleball.se/wp-content/uploads/2018/03/Erbjudande-WEB.jpg" alt="" width="880" height="299" />
+Med en enorm drivkraft, stor lust och ett härligt engagemang kommer Svensexor, Möhippor, Företagsaktiviteer och Barnkalas i Norrköping bli så mycket roligare när Aktiviteter Norrköping startar sammarbete med Aktiviteter Sverige och utökar med Aktiviteter Stockholms 20åriga koncept för aktiviteter.
 
-Växeln/Centralbokning;
+Så välkomna!
 
-08-21 85 05
-<h6>Mejl/Boka:
-<a href="mailto:Norrkoping@bubbleball.se">Norrkoping@bubbleball.se</a></h6>
-Boka Bubbelabll, archertag och sumobrottning.
-Bubbelabll 350:-pp
-Archertag 350:-pp
-Bubbelabll och Archertag 550:-pp
-Bubbleball, archertag &amp; Sumobrottning, 590:-pp
+Hälsningar,
 
-Minsta debitering 10 personer
-Vid kombinationsbokningarna minsta debitiering 8 personer.
-
-Är nu en del av <a href="http://www.aktivitetersverige.se">www.aktivitetersverige.se</a>
-Aktiviteter Sverige är sveriges största producent av uppblåsbara aktivitetsprodukter och tält, störst kompletterande utbud av produkter, tjänster och koncept.
-
-<img class="alignnone wp-image-1579" src="https://bubbleball.se/wp-content/uploads/2017/03/Aktsve-120cm.jpg" alt="" width="536" height="110" />
-
-</div>
-</div>
+Team aktiviteter Norrköping
 [/vc_column_text][/vc_column][/vc_row]
+
+</div>
