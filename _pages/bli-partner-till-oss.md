@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: page
 permalink: >
-  http://bubbleball.se/om-bubble-ball/bli-partner-till-oss/
+  https://bubbleball.se/om-bubble-ball/bli-partner-till-oss/
 published: true
 post_date: 2017-03-08 19:02:58
 ---
@@ -18,7 +18,7 @@ I samråd med tillverkaren har vi gradvis utvecklat materialet i de bollarna vi 
 De bollar vi nu säljer och använder oss av är marknadsledande. Otroligt slitstarka och dessutom lättare än liknande bollar på marknaden.
 
 Vi har nu även blivit återförsäljare av alla produkter hos vår partner, hela utbudet hittar ni här <a href="http://www.mywaterball.com/">www.mywaterball.com</a>[/vc_column_text][heading2 title="Marknadsföring"][vc_column_text]<strong>Vill ni vara med och arbeta med denna nya aktivitetsfluga?</strong>
-Vi har sedan april 2013 spelat med snart över <strong>25000 personer</strong>, vilket gör oss störst på BubbleBall i Sverige!
+Vi har sedan april 2013 spelat med snart över ca 1<strong>25.000 personer </strong>( spelande via partners och de 1100 bubbleballs vi sålt), vilket gör oss störst på BubbleBall i Sverige!
 
 Vi har varit verksamma inom event- och aktivitetsbranschen i 15 år, och aldrig har vi varit med om en liknande hype och som det är kring BubbleBalls!
 
@@ -32,7 +32,7 @@ Vill du vara en del av detta erbjuder vi dig ett enkelt och förtjänstfullt upp
  	<li>Färdiga, fälttestade spelsystem för alla typer av event</li>
  	<li>Garantier enligt Svensk lag</li>
 </ul>
-[/vc_column_text][heading2 title="Försäljning och genomförande"][vc_column_text]Vi äger Svenska toppdomäner för både Bubble Ball, Bumper Balls och Loopy Ball. De marknadsförs primärt via adwords, <a href="https://www.facebook.com/bubbleball.se" target="_blank" rel="noopener">Facebook</a>, <a href="https://www.linkedin.com/company/bubbleball-se" target="_blank" rel="noopener">LinkedIn</a> och <a href="https://www.youtube.com/channel/UCqZTh9NQTc4S9JUjVGeELiw" target="_blank" rel="noopener">Youtube</a> men även via Instagram, Twitter, mejl, telefon och direktkontakt med kunder och partner.
+[/vc_column_text][heading2 title="Försäljning och genomförande"][vc_column_text]Vi äger Svenska toppdomäner för både Bubble Ball, Bumper Balls och Loopy Ball. De marknadsförs primärt via adwords, <a href="https://www.facebook.com/bubbleball.se" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.linkedin.com/company/bubbleball-se" target="_blank" rel="noopener noreferrer">LinkedIn</a> och <a href="https://www.youtube.com/channel/UCqZTh9NQTc4S9JUjVGeELiw" target="_blank" rel="noopener noreferrer">Youtube</a> men även via Instagram, Twitter, mejl, telefon och direktkontakt med kunder och partner.
 
 Den absolut bästa marknadsföringen står dock alla nöjda bubbleballkunder för! Så snart vi började spela på allmänna ytor spreds ryktet explosionsartat. Mouth to mouth, via kundernas inlägg på Facebook, Instagram och på Youtube.
 
@@ -86,4 +86,4 @@ aktivitetergöteborg.se
 aktivitetermalmö.se
 aktivitetermalmoe.se
 aktiviteterstockholm.se
-aktivitetersverige.se</strong>[/list][/vc_column][/vc_row][vc_row][vc_column][heading2 title=" Anmäl intresse att bli en av våra fantastiska partners här:"][contact_form][/vc_column][/vc_row]
+aktivitetersverige.se</strong>[/list][/vc_column][/vc_row][vc_row][vc_column][heading2 title="Anmäl intresse att bli en av våra fantastiska partners här:"][contact_form][/vc_column][/vc_row]
