@@ -34,6 +34,8 @@ Bubbleball, archertag &amp; Sumobrottning, 590:-pp
 Minsta debitering 10 personer
 Vid kombinationsbokningarna minsta debitiering 8 personer.
 
+Söker ni mer aktiviteter och utbud kan ni titta in på <a href="http://www.aktivitetersnorrkoping.se">www.aktiviteternorrkoping.se</a>
+
 Är nu en del av <a href="http://www.aktivitetersverige.se">www.aktivitetersverige.se</a>
 Aktiviteter Sverige är sveriges största producent av uppblåsbara aktivitetsprodukter och tält, störst kompletterande utbud av produkter, tjänster och koncept.
 
