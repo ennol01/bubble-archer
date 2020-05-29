@@ -39,6 +39,6 @@ Swish: 123-54 30 996
 Org.nr: 556765-0774
 Innehar F-skattebevis[/vc_column_text][/vc_column][vc_column width="1/3"][heading2 title="Tele centralbokningen"][vc_column_text]
 <h3><strong>08-218505
-sms 072-342 57 13</strong></h3>
+sms 072-3424972</strong></h3>
 [/vc_column_text][heading2 title="E-Post till HK"][vc_column_text]Bokning,frågor och övrigt:
 <a href="mailto:info@archertag.se">info@archertag.se</a>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row]
