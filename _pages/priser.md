@@ -37,13 +37,13 @@ I detta ingår
 </ul>
 ​
 Framkörning kan tillkomma. Fråga vid <a href="http://bubbleball.se/boka/bokningsformular/">bokning</a>.[/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Bokning, betalning &amp; bokningsregler"][heading2 title="Bokning - sker via mejl"][vc_column_text]
+<h3>Mejl: <a href="mailto:info@bubbleball.se" target="_blank" rel="noopener noreferrer">info@bubbleball.se</a></h3>
+[/vc_column_text][vc_column_text]
 <ol>
  	<li>Namn, adress &amp; telenummer</li>
  	<li>Spelplats, datum, tid och antal deltagare.</li>
  	<li>Ni erhåller bekräftelse från oss via mejl.</li>
 </ol>
-[/vc_column_text][vc_column_text]
-<h3>Mejl: <a href="mailto:info@bubbleball.se" target="_blank" rel="noopener noreferrer">info@bubbleball.se</a></h3>
 [/vc_column_text][heading2 title="Betalning"][vc_column_text]
 <ul>
  	<li>Faktura</li>
