@@ -5,7 +5,7 @@ author: ennol
 post_excerpt: ""
 layout: partnerssynced
 permalink: >
-  http://archertag.se/Partnerssynced/vasteras-enkoping/
+  https://bubbleball.se/Partnerssynced/vasteras-enkoping/
 published: true
 post_date: 2017-03-08 19:11:32
 ---
@@ -27,13 +27,14 @@ post_date: 2017-03-08 19:11:32
 <div id="block_container_89194648" class="block_container standard_text_block text_block">
 <div id="block_89194648">
 <div id="block_89194648_text_content" class="text_content">
+<h1><strong>Välkomna, bollfantaster</strong></h1>
+<pre>Vi växer, men bli inte förvirrad:) HELA utbudet på <a href="https://www.aktiviteterstockholm.se/mohippa-o-svensexa/">www.aktiviteterstockholm.se/</a> finns nu tillgängligt i Uppsala
+Och om du inte är "svenhippa" men vill ser/hyra andra produkter så finns allt detta <a href="https://www.aktiviteterstockholm.se/uthyrning/">här för uthyrning</a>och <a href="https://luftslottuthyrning.se/">även Luftslottsuthyrning här</a> att välja ibland.
 
-<strong>Välkomna, bollfantaster</strong>
 Vi kan glatt säga att det var vi som spred sporten som nu lavinartat sköjer över Sverige!
 Vi spelar och har spelat på 100-tals olika platser, med 1000-tals kunder.
-- Alla säger samma sak, det här är otroligt roligt!Våra kunder är allt från stora företag till små företag, svensexor, möhippor, skolor och idrottsföreningar.
-
-Om ni vill ha fler aktiviteter, besök då <a href="http://www.aktiviteterstockholm.se/" target="_blank" rel="noopener">aktiviteterstockholm.se</a>
+- Alla säger samma sak, det här är otroligt roligt!Våra kunder är allt från stora företag till små företag, svensexor, möhippor, skolor och idrottsföreningar.</pre>
+Om ni vill ha fler aktiviteter, besök då <a href="http://www.aktiviteterstockholm.se/" target="_blank" rel="noopener noreferrer">aktiviteterstockholm.se</a>
 
 AktiviteterStockholm.se genomför och bokar aktiviteter, event och konferenser i hela mälardalen så de kan även hjälpa er med andra upplägg än BubbleBall.
 
