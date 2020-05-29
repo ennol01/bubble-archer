@@ -30,6 +30,9 @@ post_date: 2017-03-08 19:14:17
 
 Välkomna!
 
+Vi växer, men bli inte förvirrad:) HELA utbudet på <a href="https://www.aktiviteterstockholm.se/mohippa-o-svensexa/">www.aktiviteterstockholm.se/</a> finns nu tillgängligt i Uppsala
+Och om du inte är "svenhippa" men vill ser/hyra andra produkter så finns allt detta <a href="https://www.aktiviteterstockholm.se/uthyrning/">här för uthyrning</a>och <a href="https://luftslottuthyrning.se/">även Luftslottsuthyrning här</a> att välja ibland.
+
 Vi kan glatt säga att det var vi som startade denna sport som nu lavinartat sköjer över Sverige. Vi spelar, och har spelat, på 100-tals olika platser med 1000-tals nöjda kunder.
 - Alla säger samma sak, det här är otroligt roligt!
 
