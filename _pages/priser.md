@@ -42,7 +42,9 @@ Framkörning kan tillkomma. Fråga vid <a href="http://bubbleball.se/boka/boknin
  	<li>Spelplats, datum, tid och antal deltagare.</li>
  	<li>Ni erhåller bekräftelse från oss via mejl.</li>
 </ol>
-[/vc_column_text][vc_column_text]Mejl: <a href="mailto:info@bubbleball.se" target="_blank" rel="noopener noreferrer">info@bubbleball.se</a>[/vc_column_text][heading2 title="Betalning"][vc_column_text]
+[/vc_column_text][vc_column_text]
+<h3>Mejl: <a href="mailto:info@bubbleball.se" target="_blank" rel="noopener noreferrer">info@bubbleball.se</a></h3>
+[/vc_column_text][heading2 title="Betalning"][vc_column_text]
 <ul>
  	<li>Faktura</li>
  	<li>Swish</li>
