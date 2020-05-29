@@ -4,7 +4,7 @@ post_title: Priser
 author: ennol
 post_excerpt: ""
 layout: page
-permalink: http://bubbleball.se/boka/priser/
+permalink: https://bubbleball.se/boka/priser/
 published: true
 post_date: 2017-03-08 19:07:56
 ---
@@ -42,7 +42,7 @@ Framkörning kan tillkomma. Fråga vid <a href="http://bubbleball.se/boka/boknin
  	<li>Spelplats, datum, tid och antal deltagare.</li>
  	<li>Ni erhåller bekräftelse från oss via mejl.</li>
 </ol>
-[/vc_column_text][heading2 title="Betalning"][vc_column_text]
+[/vc_column_text][vc_column_text]Mejl: <a href="mailto:info@bubbleball.se" target="_blank" rel="noopener noreferrer">info@bubbleball.se</a>[/vc_column_text][heading2 title="Betalning"][vc_column_text]
 <ul>
  	<li>Faktura</li>
  	<li>Swish</li>
@@ -55,6 +55,6 @@ Framkörning kan tillkomma. Fråga vid <a href="http://bubbleball.se/boka/boknin
  	<li>Avbokning senare än 48 timmar debiteras 100% av eventet.</li>
  	<li>Avbokning 7 dagar innan debiteras 50% av bokat antal deltagare</li>
  	<li>Avbokning 14 dagar innan event kan avbokas kostnadsfritt (privatpersoner).</li>
- 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank" rel="noopener">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
+ 	<li>För företag gäller <a href="http://www.visita.se/globalassets/mitt-foretag/bokningsregler/allmanna-villkor141101_konferenser_gruppbokningar.pdf" target="_blank" rel="noopener noreferrer">Visita's (tidigare SHR) allmäna villkor för konferenser, gruppbokningar och andra arrangemang</a></li>
 </ul>
 [/vc_column_text][/vc_column][vc_column][/vc_column][vc_column][/vc_column][vc_column][/vc_column][/vc_row]
