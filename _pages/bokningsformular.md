@@ -32,50 +32,37 @@ Vi svarar samma eller nästkommande dag!
 
 [/vc_column_text][vc_column_text][/vc_column_text][/vc_column][vc_column width="2/6"][heading2 title="Telefonnummer till centralbokningen"][vc_column_text]
 <h1><strong>08-218505
-sms 072-3425713</strong></h1>
+sms 072-3424972</strong></h1>
 [/vc_column_text][heading2 title="E-post till huvudkontoret"][vc_column_text]Bokning, Frågor och övrigt:
 <a href="mailto:info@bubbleball.se">info@bubbleball.se</a>[/vc_column_text][heading2 title="Kontakter regionskontor"][vc_column_text]<strong>Stockholm / Uppsala / Västerås / Enköping / Mälardalen</strong>
-<em>Markus Dahlberg</em>
-mejl: markus@bubbleball.se
-mobil: 072-3425713
+<em>Nathalie Holmström</em>
 
 <strong>Göteborg / Halmstad</strong>
 <em>Niklas Luthin</em>
-Mejl: Niklas@bubbleball.se
 
 <strong>Helsingborg / Malmö </strong>
 <em>Magnus Pettersson</em>
-Mejl: Magnus@bubbleball.se
 
 <strong>Örebro / Lindesberg</strong>
 <em>Björn Persson</em>
-orebro@bubbleball.se
 
 <strong>Karlstad / Vänernområdet</strong>
 <em>Eddie</em>
-Mejl: karlstad@bubbleball.se
 
 <strong>Östersund</strong>
-<i>Erica Jonemar
-</i>nojesbruket@bubbleball.se
+<i>Erica Jonemar</i>
 
 <strong>Blekinge</strong>
 Johan Holmqvist
-blekinge@bubbleball.se
-0723-080838
 
 <strong>Norrköping</strong>
-Michael Strand
-norrkoping@bubbleball.se
+Patricio Boiardt
 
 <strong>Umeå / Balfors</strong>
 Andreas Lind
-balforsevent@bubbleball.se
 
 <strong>Gävle</strong>
 Jens Lidberg
-Jens@bubbleball.se
 
 <strong>Kalmar/Emmaboda</strong>
-Thomas Herbertsson
-thomas@bubbleball.se[/vc_column_text][/vc_column][/vc_row]
+Thomas Herbertsson[/vc_column_text][/vc_column][/vc_row]
