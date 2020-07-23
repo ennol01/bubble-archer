@@ -15,8 +15,10 @@ Med bra priser, bra service och färdigt affärsupplägg kan du som befintlig ku
 
 Vår tro är att långsiktig relation ger bäst förutsättning att bygga en hållbar affärsmodell för lång tid framöver.
 
-Vi bygger idag våra egna drömmar, förverkligar våra egna tankar och lyssnar till våra partners önskemål.
-Efter snart 20 år som aktivitetetsarrangörer vet vi vad som fungerar, kommer fungera och även i vilken kundgrupp produkter kommer fungera.
+Vi bygger våra egna drömmar, förverkligar våra egna tankar och lyssnar till våra partners önskemål. När vi skapade Bubbleball i Sverige var det vi som var först, när "bollen var i rullning" byggdes koncept och kundrelationer. En liten verksamhet växte och mål samt vision blev allt större. Nu efter snart 20 år som aktivitetetsarrangörer, produktutvecklare och koncept samt trendsättare vet vi vad som fungerar, kommer fungera och även i vilken kundgrupp produkter kommer fungera. Detta ledde oss till att 2019, ta ett nytt stort steg;
+
+-Idag, 2020 har vi utvecklat vårt koncept och startat ett nytt moderbolag  AktiviteterSverige.se. Här har vi samlat alla våra tankar, affäresidéer, kunder, leverantörer samt tillverkare till ett wow-nytt koncept för hela Sverige. Attraktion via förnyelse och variation är vår slogan och det går helt enkelt ut på att nå ut till alla, företag, kommuner, campingar, privatpersoner på ett sätt som alla ska ha råd med och vinna på.
+Detta är en succé och ny finns vi på ännu fler platser än tidigare. Idag innefattar detta koncept, aktivitetsprodukter vi abbonemang till kommuner, campingar och simhallar. En egen tillverkning i egna fabriker utefter kunders önskemål och egna nyheter som passar för rörelseglädje för gammal som ung.
 
 Med oss följer ett framgångsrikt recept för att ha roligt, både som leverantör och kund.
 
