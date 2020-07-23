@@ -8,7 +8,7 @@ permalink: https://bubbleball.se/offertforfragan/
 published: true
 post_date: 2018-02-05 14:52:48
 ---
-[vc_row][vc_column][vc_column_text]Taxk för ni skicka oss denna offertförfrågan, ni får en offert med exakta priser, fraktkostnader, lagerstatus mm inom oftast ett dygn.
+[vc_row][vc_column][vc_column_text]Tack för ni skicka oss denna offertförfrågan, ni får en offert med exakta priser, fraktkostnader, lagerstatus mm inom oftast ett dygn.
 Vi vill samtidigt förtydliga att priserna i shopen är våra standardpriser. Men variationer kan förekomma då kostnader vi inte kan påverka kan medföra prisförändringar. (högre och lägre).
 Vi baserar våra produkter på egen tillverkning, importfrakter samt valutakurser.
 
